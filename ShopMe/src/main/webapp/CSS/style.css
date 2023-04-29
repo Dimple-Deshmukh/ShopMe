@@ -1,0 +1,9 @@
+.admin .card:hover{
+	background-color: #e2e2e2;
+	cursor : pointer;
+}
+
+.admin .card{
+	border : 1px solid red;
+}
+

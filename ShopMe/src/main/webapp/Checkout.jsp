@@ -77,7 +77,7 @@
 							</div>
 							<div class="container text-center">
 								<input class="btn btn-success" onclick="paymentStart()" type="submit" value="Order Now">
-								<button class="btn btn-warning">Continue Shopping</button>
+								<a href="index.jsp" class="btn btn-warning">Continue Shopping</a>
 							</div>
 						</form>
 					</div>
